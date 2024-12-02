@@ -1,0 +1,61 @@
+# Pyrogram library for interacting with Telegram API
+pyrogram==2.0.51
+
+# PyTgCalls for handling voice and video calls in Telegram groups
+pytgcalls==2.0.1
+
+# MongoDB integration for data storage
+pymongo==4.3.3
+
+# For media handling (YouTube downloads and streaming)
+yt-dlp==2024.02.05
+youtube-dl==2021.12.17
+
+# For AI-powered image generation (e.g., OpenAI DALL-E)
+openai==0.27.4
+
+# For natural language processing (text generation, AI-based chat)
+transformers==4.33.0
+torch==2.0.0
+
+# For real-time sports data (or other APIs)
+requests==2.31.0
+
+# For checking text toxicity (Hugging Face BERT or Toxicity models)
+transformers==4.33.0
+
+# For real-time YouTube search and scraping
+youtube-search-python==1.6.0
+
+# For processing voice commands and interactions (speech recognition)
+SpeechRecognition==3.10.0
+
+# For handling asynchronous programming (recommended for Pyrogram)
+asyncio==3.4.3
+
+# For manipulating media files (audio/video processing)
+ffmpeg-python==0.2.0
+
+# For Google Search API (if needed)
+googlesearch-python==1.1.0
+
+# For scheduling tasks like periodic checks or background jobs
+apscheduler==3.8.1
+
+# For Discord (if integrating cross-platform messaging)
+discord.py==2.3.2
+
+# For WhatsApp interaction (via PyWhatKit)
+pywhatkit==5.3
+
+# For Anime data from Jikan API (Anime API)
+requests==2.31.0
+
+# For generating and handling random media requests (for example, meme generation)
+Pillow==10.1.0
+
+# For environment variables management
+python-dotenv==1.0.0
+
+# Optional: For containerizing with Docker (if using Docker in production)
+docker==6.0.1
